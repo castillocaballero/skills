@@ -1,0 +1,8 @@
+{
+  "name": "skills",
+  "dependencies": {
+    "jbaruch/pidge": {
+      "version": "0.1.1"
+    }
+  }
+}
