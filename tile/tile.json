@@ -1,0 +1,8 @@
+{
+  "name": "castillo/matteo-collina-skills",
+  "version": "1.0.0",
+  "docs": "docs/index.md",
+  "describes": "pkg:npm/%40matteo.collina/skills@1.0.0",
+  "summary": "A curated collection of AI-ready skill definitions for Node.js development, covering Fastify, Node.js core internals, TypeScript, OAuth, linting, documentation, and more.",
+  "private": true
+}
